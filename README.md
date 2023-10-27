@@ -1,0 +1,1 @@
+This script will automatically download the latest version of Forticlient. 
